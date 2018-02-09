@@ -18,10 +18,7 @@ TODO: Write credits
 ## License
 TODO: Write license
 
-PETER LA LIÓ AQUÍ
-
 IEPA
-
 
 pepito pies de mercurio
 
