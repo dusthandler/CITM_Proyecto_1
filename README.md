@@ -18,6 +18,14 @@ TODO: Write credits
 ## License
 TODO: Write license
 
+<<<<<<< HEAD
 PETER LA LIÓ AQUÍ
 
 IEPA
+=======
+<<<<<<< HEAD
+pepito pies de mercurio
+=======
+PETER LA LIÓ AQUÍ
+>>>>>>> origin/master
+>>>>>>> origin/master
