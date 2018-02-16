@@ -1,6 +1,6 @@
 # CITM_Proyecto_1
-# ${1:Project Name}
-TODO: Write a project description
+# Last Resort Arcade Development
+Game Last Resort's development process.
 ## Installation
 TODO: Describe the installation process
 ## Usage
@@ -17,10 +17,3 @@ TODO: Write history
 TODO: Write credits
 ## License
 TODO: Write license
-
-IEPA
-
-pepito pies de mercurio
-
-PETER LA LIÓ AQUÍ
-
