@@ -1,14 +1,11 @@
 # Last Resort
 Last Resort is an arcade shoot 'em up video game by SNK released in 1992. It was also released for the Neo-Geo and Neo Geo CD systems, as well as SNK Arcade Classics Vol. 1 for the PS2, PSP, and Wii. Its gameplay was heavily inspired by R-Type and its system of pod attached to the player's ship.
 ## Responsabilities
-
-| Name	        | Main Function  | 
-| ------------- |:-------------:|
-| Kevin      | Management |
-| José Antonio      | Code      |
-| Rafa | Art/Design      |
-| Víctor | QA      |
-
+Kevin - Management
+Jose - Code
+Rafa - Art / Design
+Víctor - QA
+## Team photo
 
 
 ## Gameplay video of the original title
