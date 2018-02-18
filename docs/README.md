@@ -12,7 +12,4 @@ Last Resort is an arcade shoot 'em up video game by SNK released in 1992. It was
 
 
 ## Gameplay video of the original title
-
-[![Watch the video](https://www.youtube.com/watch?v=y1xUT7QJ-mA)](https://www.youtube.com/watch?v=y1xUT7QJ-mA)
-
 <iframe width="854" height="480" src="https://www.youtube.com/embed/y1xUT7QJ-mA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
