@@ -1,19 +1,15 @@
-# CITM_Proyecto_1
-# Last Resort Arcade Development
-Game Last Resort's development process.
-## Installation
-TODO: Describe the installation process
-## Usage
-TODO: Write usage instructions
-## Contributing
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
-## History
-TODO: Write history
-## Credits
-TODO: Write credits
-## License
-TODO: Write license
+# Last Resort
+Last Resort is an arcade shoot 'em up video game by SNK released in 1992. It was also released for the Neo-Geo and Neo Geo CD systems, as well as SNK Arcade Classics Vol. 1 for the PS2, PSP, and Wii. Its gameplay was heavily inspired by R-Type and its system of pod attached to the player's ship.
+## Responsabilities
+Kevin - Management
+Jose - Code
+Rafa - Art / Design
+Víctor - QA
+## Team photo
+
+
+## Gameplay video of the original title
+
+[![Watch the video](https://www.youtube.com/watch?v=y1xUT7QJ-mA)](https://www.youtube.com/watch?v=y1xUT7QJ-mA)
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/y1xUT7QJ-mA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
