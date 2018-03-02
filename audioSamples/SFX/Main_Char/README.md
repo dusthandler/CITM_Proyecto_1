@@ -2,5 +2,6 @@ Sounds of the main char.
 
 Includes 
 -Shooting 
--Exploiting 
+-Dying
+-Reviving
 (add whatever you find)
