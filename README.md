@@ -1,5 +1,9 @@
+***
+
+Visit our [github wiki](https://github.com/dusthandler/CITM_Proyecto_1/wiki) page for extended game analysis information.
 
 ***
+
 # LAST RESORT 
 
 <p align="center">
@@ -16,25 +20,22 @@
 
 ## Index
 
-[Landing Page](https://github.com/dusthandler/CITM_Proyecto_1/wiki)
+[General analysis](Analysis)
 
-[General analysis](https://github.com/dusthandler/CITM_Proyecto_1/wiki/Analysis)
+[Design](Design)
 
-[Design](https://github.com/dusthandler/CITM_Proyecto_1/wiki/Design)
+[User interface](UI)
 
-[User interface](https://github.com/dusthandler/CITM_Proyecto_1/wiki/UI)
+[Audio](Audio)
 
-[Audio](https://github.com/dusthandler/CITM_Proyecto_1/wiki/Audio)
+[Art](Art)
 
-[Art](https://github.com/dusthandler/CITM_Proyecto_1/wiki/Art)
-
-[How to extract sprites](https://github.com/dusthandler/CITM_Proyecto_1/wiki/HowTo)
+[How to extract sprites](HowTo)
 
 
 ***
 
-
-Last Resort is an arcade shoot 'em up video game by SNK released in 1992. It was also released for the Neo-Geo and Neo Geo CD systems, as well as SNK Arcade Classics Vol. 1 for the PS2, PSP, and Wii, and in 2017, for PS4, Xbox One and Nintendo Switch. Its gameplay was heavily inspired by R-Type and its system of pod attached to the player's ship.
+Last Resort is one of the greatest arcade shoot 'em up videogames because of his great technical quality for the times of his release and it's very well-known for his challenging and brutally difficulty. The original version of the game was released in 1992 for NeoGeo Arcade Systems by SNK. Later was released for NeoGeo CD. Since then, was remastered in SNK Arcade Classics Vol.1 for the PS2, PSP and Wii in 2007 and later on, in 2017, for PS4, Xbox One and Nintendo Switch. This game is an spiritual sequel of R-Type, because of the similarity of their mechanics. Also, his art was very inspired on the manga Akira.
 
 <p align="center">
 <img src="http://www.mobygames.com/images/shots/l/101879-last-resort-neo-geo-screenshot-boss.gif" width="480">
@@ -44,12 +45,14 @@ Last Resort is an arcade shoot 'em up video game by SNK released in 1992. It was
 
 ## Responsabilities
 
+
 | Name	        | Main Function  | Github account|
 | ------------- |:-------------:|:-------------:|
 | Kevin      | Management |[DustHandler](https://github.com/dusthandler)|
 | José Antonio      | Code      |[PeterMcP](https://github.com/peterMcP)|
 | Rafa | Art/Design      |[RafaKanex](https://github.com/RafaKanex)|
 | Víctor | QA      |[VictorSegura99](https://github.com/VictorSegura99)|
+
 
 ## Team photo
 
