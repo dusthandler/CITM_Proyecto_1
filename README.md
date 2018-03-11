@@ -16,17 +16,19 @@
 
 ## Index
 
-[General analysis](Analysis)
+[Landing Page](https://github.com/dusthandler/CITM_Proyecto_1/wiki)
 
-[Design](Design)
+[General analysis](https://github.com/dusthandler/CITM_Proyecto_1/wiki/Analysis)
 
-[User interface](UI)
+[Design](https://github.com/dusthandler/CITM_Proyecto_1/wiki/Design)
 
-[Audio](Audio)
+[User interface](https://github.com/dusthandler/CITM_Proyecto_1/wiki/UI)
 
-[Art](Art)
+[Audio](https://github.com/dusthandler/CITM_Proyecto_1/wiki/Audio)
 
-[How to extract sprites](HowTo)
+[Art](https://github.com/dusthandler/CITM_Proyecto_1/wiki/Art)
+
+[How to extract sprites](https://github.com/dusthandler/CITM_Proyecto_1/wiki/HowTo)
 
 
 ***
