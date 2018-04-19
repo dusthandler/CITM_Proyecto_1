@@ -1,3 +1,9 @@
+### new Project GitHub: https://github.com/CircusGames/Last_Resort
+
+### v0.2.1 GitHub: https://github.com/CircusGames/Last_Resort
+  
+   * Build: https://github.com/CircusGames/Last_Resort/releases
+
 ***
 
 Provisional link to v0.1: [here](https://github.com/peterMcP/SDL3_Handout)
